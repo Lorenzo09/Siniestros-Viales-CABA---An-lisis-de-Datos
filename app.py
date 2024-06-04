@@ -18,7 +18,7 @@ file_paths = {
 
 # Función para cargar y mostrar dataframes
 def show_dataframes():
-    st.title('Dataframes')
+    st.title('Datos utilizados para el Dashboard')
     # Cargar cada archivo CSV y mostrar sus datos
     for file_path, name in file_paths.items():
         st.write(f"## {name}")
@@ -27,7 +27,7 @@ def show_dataframes():
 
 # Función para generar el dashboard
 def show_dashboard():
-    st.title('Dashboard')
+    st.title('Siniestros Viales en CABA durante 2016 y 2021')
     # Definir el path del archivo CSV
     siniestros_viales = "Datasets\df_siniestros_viales_streamlit.csv"
 
