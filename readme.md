@@ -2,13 +2,13 @@
  <b>Siniestros viales en la Ciudad de Buenos Aires 2016 - 2021</b>
 </h1>
 
-![image](Imagenes\readme1.jpg)
+![image](https://github.com/Lorenzo09/Siniestros-Viales-CABA---An-lisis-de-Datos/blob/master/Imagenes/readme1.jpg)
 
 <h2 align='center'>
  <b> Segundo Proyecto Individual Henry</b>
 </h2>
 
-![image](Imagenes\readme2.jpg)
+![image](https://github.com/Lorenzo09/Siniestros-Viales-CABA---An-lisis-de-Datos/blob/master/Imagenes/readme2.jpg)
 
 La Ciudad Autónoma de Buenos Aires (CABA), capital de la República Argentina, es una metrópoli vibrante y llena de historia, considerada uno de los principales centros culturales y económicos de América Latina. Con una población de aproximadamente 3 millones de habitantes, Buenos Aires es un núcleo cosmopolita donde se fusionan la tradición y la modernidad, atrayendo a millones de turistas cada año. La ciudad se destaca por su arquitectura europea, sus teatros, y su vida nocturna, además de ser la cuna del tango, un género musical y baile reconocido internacionalmente.
 
@@ -27,18 +27,18 @@ El primer paso fue desmenuzar los datos. Para ello, me centré en realizar un pr
 
 Para continuar, comencé un proceso de EDA (Análisis de Datos Exploratorio), para empezar a graficar ya con los datos correctamente cargados y entender el desafío al que se enfrenta la Ciudad Autónoma de Buenos Aires.
 
-![image](Imagenes\readme3.jpg.png)
+![image](https://github.com/Lorenzo09/Siniestros-Viales-CABA---An-lisis-de-Datos/blob/master/Imagenes/readme3.jpg.png)
 
 
 Todo el proceso se puede constatar en el link del repositorio (EDA.ipynb):
 
 Con estos primeros datos, podemos observar que existe un fuerte disminución en la cantidad de siniestros viales en el año 2020. Por lo tanto, decidí verificar que no se tratase de datos erróneos.
 
-![image](Imagenes\Casospordia.jpeg)
+![image](https://github.com/Lorenzo09/Siniestros-Viales-CABA---An-lisis-de-Datos/blob/master/Imagenes/Casospordia.jpeg)
 
 La variación en el año 2020 puede ser constatada gracias a los datos oficiales del organismo de salud en la Ciudad Autónoma de Buenos Aires. Allí, se vivió una de las cuarentenas más estrictas del país, por lo cual se vió afectado el número de siniestros viales. Sin embargo, esto significa que los datos no son erróneos y podemos continuar.
 
-![image](Imagenes\readme4.jpg.png)
+![image](https://github.com/Lorenzo09/Siniestros-Viales-CABA---An-lisis-de-Datos/blob/master/Imagenes/readme4.jpg.png)
 
 ## Primer KPI 
 
@@ -46,11 +46,11 @@ Reducir en un 10% la tasa de homicidios en siniestros viales de los últimos sei
 
 Con el siguiente gráfico, buscaba darle solución al primer KPI, el cual buscaba la diferencia entre los últimos semestres del año. En el cual podemos confirmar que hubo una reducción de siniestros viales. Para ello, podemos mirar el Dashboard interactivo.
 
-![image](Imagenes\readme5.jpeg)
+![image](https://github.com/Lorenzo09/Siniestros-Viales-CABA---An-lisis-de-Datos/blob/master/Imagenes/readme5.jpeg)
 
 Para continuar, comencé a graficar los distintos siniestros por comuna y tipo de vehículo. Allí, se puede ver con claridad que las víctimas fatales más comunes son los que se encuentran manejando una moto.
 
-![image](Imagenes\readme6.png)
+![image](https://github.com/Lorenzo09/Siniestros-Viales-CABA---An-lisis-de-Datos/blob/master/Imagenes/readme6.png)
 
 ## Segundo KPI 
 
@@ -58,7 +58,7 @@ Reducir en un 7% la cantidad de accidentes mortales de motociclistas en el últi
 
 Para el siguiente KPI, habría que comparar ambos gráficos realizados. En los cuales podemos ver la cantidad de víctimas y la cantidad de víctimas motociclistas. Para ello, podemos también acceder al Dashboard.
 
-![image](Imagenes\readme7.jpeg)
+![image](https://github.com/Lorenzo09/Siniestros-Viales-CABA---An-lisis-de-Datos/blob/master/Imagenes/readme7.jpeg)
 
 Con este KPI, podemos ver que la cantidad de víctimas lamentablemente no sólo ni disminuyó. Si no que aumentó considerablemente.
 
@@ -66,7 +66,7 @@ Con este KPI, podemos ver que la cantidad de víctimas lamentablemente no sólo 
 
 Para finalizar, en el tercer y último KPI, muestro cómo a pesar de la pandemia, el año 2021 tuvo una reducción en su cantidad de siniestros viales sobre autopistas frente al año 2020.
 
-![image](Imagenes\readme8.png)
+![image](https://github.com/Lorenzo09/Siniestros-Viales-CABA---An-lisis-de-Datos/blob/master/Imagenes/readme8.png)
 
 
 ## Creacion del Dashboard
